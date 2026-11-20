@@ -1,0 +1,13 @@
+
+@media screen and (max-width: 576px) {
+#hero .bannerCnt h1 {
+    font-size: 50px;
+    margin-top: 0px;
+}
+
+#hero .bannerCnt p {
+    margin: 18px 0 17px;
+    font-size: 12px;
+}
+
+}
